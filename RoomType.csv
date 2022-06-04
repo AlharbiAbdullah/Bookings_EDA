@@ -1,0 +1,15 @@
+﻿RoomType_Id,RoomType_En,RoomType_Ar
+1,Single Bed Room,غرفة نوم مفردة
+2,Double Bed Room / Kind Bed Room,غرفة نوم مزدوجة / غرفة نوم كنغ
+3,Regular Suite,جناح عادي
+4,"""Studio Apartment / Apartment with Single Room """,شقة استوديو / شقة مع غرفة فردية
+5,Furnished Apartment with 2 rooms,وحدة سكنيه بغرفتين
+6,Furnished Apartment with 3 rooms,وحدة سكنيه بثلاث غرف
+7,Villa,فيلا
+8,Room with 3 beds,""" غرفه بثلاث اسره"""
+9,Room with 4 beds,غرفه باربع اسره
+10,Room with 5 beds,""" غرفه بخمس اسره"""
+11,Room with 6 beds,""" غرفه بست اسره"""
+12,Room with 7 beds or more,غرفه بسبع اسرة او اكثر
+13,Other,اخرى
+14,Executive / Luxury Suite,جناح تنفيذي / فاخر

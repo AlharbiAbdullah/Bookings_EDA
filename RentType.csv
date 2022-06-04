@@ -1,0 +1,5 @@
+﻿RentTypeId,RentTypeNameEn,RentTypeNameAr
+1,Daily,يومي
+2,Hourly,بالساعة
+3,Weekly,اسبوعي
+4,Monthly,شهري

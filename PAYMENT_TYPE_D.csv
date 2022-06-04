@@ -1,0 +1,8 @@
+﻿PAYMENT_TYPE_ID,PAYMENT_TYPE_EN,PAYMENT_TYPE_AR
+0,Not Applicable / No Payment," غير محدد لايوجد دفع"
+1,Cash,نقد
+2,Debit or Credit Card,بطاقة اتمانية
+3,Paid by Company,المدفوعة من قبل الشركة
+4,Check,شيك
+5,Other,أخرى
+6,Online Channel,قناة الكترونيه

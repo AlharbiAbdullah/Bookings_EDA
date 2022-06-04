@@ -1,0 +1,11 @@
+﻿PurposeOfVisit_ID,PurposeOfVisit_En,PurposeOfVisit_Ar
+1,Tourism,السياحه
+2,Family or Friends,زيارة الأقارب والاصدقاء
+3,Religious,زياره دينيه
+4,Business or Work,عمل
+5,Sports,نشاط رياضي
+6,Entertainment,نشاط ترفيهي
+7,Other,اخرى
+8,Work (Royal Court),موظف ديوان
+9,Quarantined guests,"""نزيل حجر """
+10,Ministry of Health Staff,موظف وزارة الصحة
